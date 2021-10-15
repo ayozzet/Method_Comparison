@@ -1,0 +1,19 @@
+Lane-line Detection Algorithm for Complex Road Based on OpenCV
+https://ieeexplore.ieee.org/document/8983919
+Z. Wang, Y. Fan and H. Zhang, "Lane-line Detection Algorithm for Complex Road Based on OpenCV," 2019 IEEE 3rd Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC), 2019, pp. 1404-1407, doi: 10.1109/IMCEC46724.2019.8983919.
+
+The Implementation of Lane Detective Based on OpenCV
+https://ieeexplore.ieee.org/document/5709375
+W. Ye, S. Yuetian, X. Yunhe, W. Shu and Z. Yuchen, "The Implementation of Lane Detective Based on OpenCV," 2010 Second WRI Global Congress on Intelligent Systems, 2010, pp. 278-281, doi: 10.1109/GCIS.2010.120.
+
+Analysis of lane detection techniques using openCV
+https://ieeexplore.ieee.org/document/7443166
+S. K. Vishwakarma, Akash and D. S. Yadav, "Analysis of lane detection techniques using openCV," 2015 Annual IEEE India Conference (INDICON), 2015, pp. 1-4, doi: 10.1109/INDICON.2015.7443166.
+
+A lane recognition system based on priority
+https://ieeexplore.ieee.org/document/6767269
+K. Zheng, G. Sun, Q. Fan, X. Wang, Q. Zhang and L. Jia, "A lane recognition system based on priority," 2013 IEEE Global High Tech Congress on Electronics, 2013, pp. 183-186, doi: 10.1109/GHTCE.2013.6767269.
+
+Design of an IoT based autonomous vehicle with the aid of computer vision
+https://ieeexplore.ieee.org/document/7913003
+M. R. T. Hossai, M. A. Shahjalal and N. F. Nuri, "Design of an IoT based autonomous vehicle with the aid of computer vision," 2017 International Conference on Electrical, Computer and Communication Engineering (ECCE), 2017, pp. 752-756, doi: 10.1109/ECACE.2017.7913003.
