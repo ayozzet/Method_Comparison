@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import timeit
+#import timeit
 import logging
 
 lgr = logging.getLogger('Time taken')
