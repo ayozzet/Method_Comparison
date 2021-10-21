@@ -1,0 +1,2 @@
+Parameter optimal determination for canny edge detection
+Zhao, X. M., Wang, W. X., & Wang, L. P. (2011). Parameter optimal determination for canny edge detection. The Imaging Science Journal, 59(6), 332–341. doi:10.1179/136821910x12867873897517 
