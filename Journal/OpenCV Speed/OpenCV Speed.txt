@@ -1,0 +1,83 @@
+Optimization of Vehicle Speed Calculation on Raspberry Pi Using Sparse Random Projection
+C. C. Paglinawan, A. N. Yumang, L. C. M. Andrada, E. C. Garcia and J. M. F. Hernandez, "Optimization of Vehicle Speed Calculation on Raspberry Pi Using Sparse Random Projection," 2018 IEEE 10th International Conference on Humanoid, Nanotechnology, Information Technology,Communication and Control, Environment and Management (HNICEM), 2018, pp. 1-6, doi: 10.1109/HNICEM.2018.8666325.
+
+Real Time Object Detection and Tracking Using Deep Learning and OpenCV
+G. Chandan, A. Jain, H. Jain and Mohana, "Real Time Object Detection and Tracking Using Deep Learning and OpenCV," 2018 International Conference on Inventive Research in Computing Applications (ICIRCA), 2018, pp. 1305-1308, doi: 10.1109/ICIRCA.2018.8597266.
+
+Use of TensorFlow and OpenCV to detect vehicles
+A. C. Cormoş, R. Andrei Gheorghiu, V. A. STAN and I. Spirea Dănăilă, "Use of TensorFlow and OpenCV to detect vehicles," 2020 12th International Conference on Electronics, Computers and Artificial Intelligence (ECAI), 2020, pp. 1-4, doi: 10.1109/ECAI50035.2020.9223173.
+
+Development of road sign recognition for ADAS using OpenCV
+N. P. Botekar and M. N. Mahalakshmi, "Development of road sign recognition for ADAS using OpenCV," 2017 International Conference on Intelligent Computing and Control (I2C2), 2017, pp. 1-4, doi: 10.1109/I2C2.2017.8321941.
+
+Video size comparison for embedded vehicle speed detection & travel time estimation system by using Raspberry Pi
+I. Iszaidy, A. Alias, R. Ngadiran, R. B. Ahmad, M. I. Jais and D. Shuhaizar, "Video size comparison for embedded vehicle speed detection & travel time estimation system by using Raspberry Pi," 2016 International Conference on Robotics, Automation and Sciences (ICORAS), 2016, pp. 1-4, doi: 10.1109/ICORAS.2016.7872631.
+
+Three dimensional dynamic measurements using a stereo vision system and optical flow algorithms for high speed video applications
+G. A. Parra Escamilla and V. E. López Padilla, "Three dimensional dynamic measurements using a stereo vision system and optical flow algorithms for high speed video applications," CONIELECOMP 2012, 22nd International Conference on Electrical Communications and Computers, 2012, pp. 113-117, doi: 10.1109/CONIELECOMP.2012.6189892.
+
+Lane-line Detection Algorithm for Complex Road Based on OpenCV
+Z. Wang, Y. Fan and H. Zhang, "Lane-line Detection Algorithm for Complex Road Based on OpenCV," 2019 IEEE 3rd Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC), 2019, pp. 1404-1407, doi: 10.1109/IMCEC46724.2019.8983919.
+
+Real-Time Train Speed Prediction using Ip-Camera Based On Time Difference
+E. Pramunanto, E. M. Yuniarno and A. Putrawardana, "Real-Time Train Speed Prediction using Ip-Camera Based On Time Difference," 2020 International Conference on Computer Engineering, Network, and Intelligent Multimedia (CENIM), 2020, pp. 445-450, doi: 10.1109/CENIM51130.2020.9298004.
+
+OpenCV compatible real time processor for background foreground identification
+M. Genovese, E. Napoli and N. Petra, "OpenCV compatible real time processor for background foreground identification," 2010 International Conference on Microelectronics, 2010, pp. 467-470, doi: 10.1109/ICM.2010.5696190.
+
+Smart home automation with a unique door monitoring system for old age people using Python, OpenCV, Android and Raspberry pi
+B. Vaidya, A. Patel, A. Panchal, R. Mehta, K. Mehta and P. Vaghasiya, "Smart home automation with a unique door monitoring system for old age people using Python, OpenCV, Android and Raspberry pi," 2017 International Conference on Intelligent Computing and Control Systems (ICICCS), 2017, pp. 82-86, doi: 10.1109/ICCONS.2017.8250582.
+
+Research on License Plate Recognition Algorithm Based on OpenCV
+Z. Shuaishuai and P. Chen, "Research on License Plate Recognition Algorithm Based on OpenCV," 2019 Chinese Automation Congress (CAC), 2019, pp. 68-72, doi: 10.1109/CAC48633.2019.8996599.
+
+Research for High Speed Image Processing Programming Method on Combined Environment of CUDA and OpenCV
+S. Kameyama and Y. Miura, "Research for High Speed Image Processing Programming Method on Combined Environment of CUDA and OpenCV," 2018 IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 2018, pp. 1-2, doi: 10.1109/ICCE-China.2018.8448702.
+
+Comparison of OpenCV's feature detectors and feature matchers****
+F. K. Noble, "Comparison of OpenCV's feature detectors and feature matchers," 2016 23rd International Conference on Mechatronics and Machine Vision in Practice (M2VIP), 2016, pp. 1-6, doi: 10.1109/M2VIP.2016.7827292.
+
+Towards Standardization of MQTT-Alert-based Sensor Networks: Protocol Structures Formalization and Low-End Node Security
+G. Vrettos, E. Logaras and E. Kalligeros, "Towards Standardization of MQTT-Alert-based Sensor Networks: Protocol Structures Formalization and Low-End Node Security," 2018 IEEE 13th International Symposium on Industrial Embedded Systems (SIES), 2018, pp. 1-4, doi: 10.1109/SIES.2018.8442109.
+
+Real-Time Control of Power Exchange at Primary Substations: An OPF-Based Solution
+A. Estebsari, E. Patti and L. Bottaccioli, "Real-Time Control of Power Exchange at Primary Substations: An OPF-Based Solution," 2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe), 2020, pp. 1-6, doi: 10.1109/EEEIC/ICPSEurope49358.2020.9160765.
+
+Online Memory Access Pattern Analysis on an Application Profiling Tool
+Y. Matsubara and Y. Sato, "Online Memory Access Pattern Analysis on an Application Profiling Tool," 2014 Second International Symposium on Computing and Networking, 2014, pp. 602-604, doi: 10.1109/CANDAR.2014.86.
+
+An Improved Automatic Thumbnail Generation Algorithm Based on Interpolation Technique****
+G. Weng, C. Yang, J. Long and S. Chen, "An Improved Automatic Thumbnail Generation Algorithm Based on Interpolation Technique," 2018 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData), 2018, pp. 706-711, doi: 10.1109/Cybermatics_2018.2018.00141.
+
+Research on Object Location Detection based on ROS Machine Vision
+H. He, S. Wang and S. Ma, "Research on Object Location Detection based on ROS Machine Vision," 2019 Chinese Control And Decision Conference (CCDC), 2019, pp. 1008-1012, doi: 10.1109/CCDC.2019.8833232.
+
+Vision-based automatic warning system to prevent dangerous and illegal vehicle overtaking
+M. Athree and A. Jayasiri, "Vision-based automatic warning system to prevent dangerous and illegal vehicle overtaking," 2020 International Research Conference on Smart Computing and Systems Engineering (SCSE), 2020, pp. 25-30, doi: 10.1109/SCSE49731.2020.9313006.
+
+Image Processing for Drones Detection****
+R. Hamatapa and C. Vongchumyen, "Image Processing for Drones Detection," 2019 5th International Conference on Engineering, Applied Sciences and Technology (ICEAST), 2019, pp. 1-4, doi: 10.1109/ICEAST.2019.8802578.
+
+A Study of automated image capturing HDI environment using NAVIO 2****
+U. A. Manawadu, M. W. Y. C. Karunarathna, H. D. C. N. Gunawardana, C. Premachandra, P. R. S. De Silva and W. A. S. Wijesinghe, "A Study of automated image capturing HDI environment using NAVIO 2," 2018 IEEE 7th Global Conference on Consumer Electronics (GCCE), 2018, pp. 308-311, doi: 10.1109/GCCE.2018.8574657.
+
+Performance Evaluation of Real-Time System for Vision-Based Navigation of Small Autonomous Mobile Robots
+Y. Boltov, I. Skarga-Bandurova, I. Kotsiuba, M. Hrushka, G. Krivoulya and R. Siriak, "Performance Evaluation of Real-Time System for Vision-Based Navigation of Small Autonomous Mobile Robots," 2019 10th International Conference on Dependable Systems, Services and Technologies (DESSERT), 2019, pp. 218-222, doi: 10.1109/DESSERT.2019.8770045.
+
+Detecting Obstacles Within the Driving Lane and Vehicle Speed Adjustment**** (can't get the PDF)
+S. Ljepić, R. Grbić, J. Kovačević and M. Krunić, "Detecting Obstacles Within the Driving Lane and Vehicle Speed Adjustment," 2021 Zooming Innovation in Consumer Technologies Conference (ZINC), 2021, pp. 225-230, doi: 10.1109/ZINC52049.2021.9499311.
+
+A Real-time Video Processing Implementation with Massively Parallel Computation Support****
+W. Shin, M. Kim, S. Park and N. Baek, "A Real-time Video Processing Implementation with Massively Parallel Computation Support," 2020 International Conference on Electronics, Information, and Communication (ICEIC), 2020, pp. 1-2, doi: 10.1109/ICEIC49074.2020.9051222.
+
+A Warp Speed Chain-Code Algorithm Based on Binary Decision Trees****
+S. Allegretti, F. Bolelli and C. Grana, "A Warp Speed Chain-Code Algorithm Based on Binary Decision Trees," 2020 Joint 9th International Conference on Informatics, Electronics & Vision (ICIEV) and 2020 4th International Conference on Imaging, Vision & Pattern Recognition (icIVPR), 2020, pp. 1-8, doi: 10.1109/ICIEVicIVPR48672.2020.9306532.
+
+Fixed Obstacle Detection for Autonomous Vehicle****
+A. M. Fouad, R. M. Sharkawy and A. Onsy, "Fixed Obstacle Detection for Autonomous Vehicle," 2019 IEEE Conference on Power Electronics and Renewable Energy (CPERE), 2019, pp. 217-221, doi: 10.1109/CPERE45374.2019.8980124.
+
+An Adaptive Video-based Vehicle Detection, Classification, Counting, and Speed-measurement System for Real-time Traffic Data Collection
+A. Ghosh, M. S. Sabuj, H. H. Sonet, S. Shatabda and D. M. Farid, "An Adaptive Video-based Vehicle Detection, Classification, Counting, and Speed-measurement System for Real-time Traffic Data Collection," 2019 IEEE Region 10 Symposium (TENSYMP), 2019, pp. 541-546, doi: 10.1109/TENSYMP46218.2019.8971196.
+
+Development of Machine Vision System for Tracking Crane Mechanisms****
+E. Y. Omelchenko, E. V. Voronov and S. S. Enin, "Development of Machine Vision System for Tracking Crane Mechanisms," 2019 International Russian Automation Conference (RusAutoCon), 2019, pp. 1-4, doi: 10.1109/RUSAUTOCON.2019.8867687.
